@@ -35,7 +35,15 @@
 	- 神经网络
 	- CNN/RNN/LSTM...
 	- Demo
-    
+
+## Members
+- [yellowb](https://github.com/yellowb)
+- [qisibajie](https://github.com/qisibajie)
+- [Fairylord](https://github.com/Fairylord)
+- [TmacZhou](https://github.com/TmacZhou)
+- [aaronmayo](https://github.com/aaronmayo)
+- [JonasYuGit](https://github.com/JonasYuGit)
+
 ## 当前TODO List
 1. 分组如下, 各组人员请细化自己负责那个item的outline(yellow@2018-5-3)
 	- Yellow + Tmac: CH.0 & CH.1
