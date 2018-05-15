@@ -8,9 +8,12 @@
 1. [CH.1 Python basic skills](https://github.com/ouriris/ml-course/tree/master/chapter.1)
 	- 背景(Why Pyhton，生态链？What usage？Advantages & shortcomings)
 	- 环境搭建(Anaconda、pycharm、Jupyter Notebook等，更倾向于给出一份guideline、helloworld)
+		- Anaconda使Python2/3共存(Conda的使用)
+		- Jupyter Notebook的使用
+		- PyCharm
 	- 语法特点(主要集中于Python与其它语言不同的特点上)
 	- Demo
-2. [CH.2 ML basic models + basic math]()
+2. [CH.2 ML basic models + basic math](https://github.com/ouriris/ml-course/tree/master/chapter.2)
 	- 机器学习评价方法及性能度量
 		- 留出法
 		- 交叉验证法
