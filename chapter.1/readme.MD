@@ -15,4 +15,6 @@
 	- 函数式编程(高阶函数、闭包)
 	- 模块化(__init__.py、作用域、判断__name__=='__main__')
 	- OOP(如何定义class、构造函数、一般函数、私有变量、静态变量、继承、枚举)
+	- 异常处理(try-except-finally、自定义异常)
+	- Unittest
 4. Demo
