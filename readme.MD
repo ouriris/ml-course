@@ -21,6 +21,7 @@
 		- OOP(如何定义class、构造函数、一般函数、私有变量、静态变量、继承、枚举)
 		- 异常处理(try-except-finally、自定义异常)
 		- Unittest
+	- [Code Samples](https://github.com/yellowb/ml-sample)
 2. [CH.2 ML basic models + basic math](https://github.com/ouriris/ml-course/tree/master/chapter.2)
 	- 机器学习评价方法及性能度量
 		- 留出法
