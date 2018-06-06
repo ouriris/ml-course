@@ -5,14 +5,22 @@
 	- 课程背景简介
 	- Data scientist roadmap
 	- 机器学习实践流程
-1. [CH.1 Python basic skills](https://github.com/ouriris/ml-course/tree/master/chapter.1)
-	- 背景(Why Pyhton，生态链？What usage？Advantages & shortcomings)
-	- 环境搭建(Anaconda、pycharm、Jupyter Notebook等，更倾向于给出一份guideline、helloworld)
+1. [CH.1 Python basic skills](https://github.com/ouriris/ml-course/tree/master/chapter.1) [(PPT)](https://github.com/ouriris/ml-course/tree/master/chapter.1/ppt)
+	- 背景(优点、生态链)
+	- 环境搭建
 		- Anaconda使Python2/3共存(Conda的使用)
-		- Jupyter Notebook的使用
-		- PyCharm
+		- Jupyter Notebook(可分享的交互式编程环境)
+		- PyCharm(IDE)
 	- 语法特点(主要集中于Python与其它语言不同的特点上)
-	- Demo
+		- 数据类型(空值None、没有定义常量的办法、List和Tuple、集合运算)
+		- 流程控制(没有花括号、靠缩进、作用域)
+		- Dict & Set
+		- 函数定义(默认参数、可变参数、命名参数、多返回值)
+		- 高级特性(Slice、生成器)
+		- 函数式编程(高阶函数)
+		- OOP(如何定义class、构造函数、一般函数、私有变量、静态变量、继承、枚举)
+		- 异常处理(try-except-finally、自定义异常)
+		- Unittest
 2. [CH.2 ML basic models + basic math](https://github.com/ouriris/ml-course/tree/master/chapter.2)
 	- 机器学习评价方法及性能度量
 		- 留出法
