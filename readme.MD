@@ -39,6 +39,7 @@
 				- 算法示例： 线性归回算法拟合正弦函数
 				- scikit-learn demo: 房价预测
 		- 决策树
+		- 朴素贝叶斯
 		- ...
 	- 非监督学习模型(理论 + Demo, 引入sk-learn)
 		- 聚类
@@ -69,10 +70,11 @@
 - [JonasYuGit](https://github.com/JonasYuGit)
 
 ## 当前TODO List
-1. 分组如下, 各组人员请细化自己负责那个item的outline(yellow@2018-5-3)
-	- Yellow + Tmac: CH.0 & CH.1
+1. 分组如下, 各组人员请细化自己负责那个item的outline(yellow@2018-6-22)
+	- ~~Yellow + Tmac: CH.0 & CH.1~~ (Completed)
   - Diana + Jonas: CH.2回归模型
   - Will + Aaron: CH.2决策树模型
+  - Yellow + Tmac: CH.2朴素贝叶斯
 
 ## Rule
 1. 每个章节放在对应子目录下, 章节目录下需要有README.MD文件.
