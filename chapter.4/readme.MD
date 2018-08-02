@@ -36,4 +36,4 @@
 		- 缺点：朴素贝叶斯模型假设属性之间相互独立，这个假设在实际应用中往往是不成立的，在属性个数比较多或者属性之间相关性较大时，分类效果不好
 	- 朴素贝叶斯的优点与缺点
 	- 朴素贝叶斯与LR的区别
-	- Sample data download link: https://www.kaggle.com/c/word2vec-nlp-tutorial/
+	- Sample data download link: https://www.kaggle.com/c/word2vec-nlp-tutorial/ 将文件放在 chapter.4\data
