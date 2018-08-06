@@ -97,7 +97,7 @@
   - Will + Aaron: CH.2决策树模型
   - Yellow + Tmac: CH.2朴素贝叶斯
 
-## Rule
+## Rules
 1. 每个章节放在对应子目录下, 章节目录下需要有README.MD文件.
 2. 更新了课件要一起更新README.MD.
 3. 讨论请去Issues.
