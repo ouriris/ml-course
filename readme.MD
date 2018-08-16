@@ -64,7 +64,13 @@
 		- ...
 	- 非监督学习模型(理论 + Demo, 引入sk-learn)
 		- 聚类
-		- ...
+			- Kmeans
+			- Kmeans++
+			- DBSCAN
+				- DBSCAN 介绍（基于密度的聚类算法）
+				- DBSCAN 算法关键属性（邻域，密度，最小密度阈值minpts，核心点，边界点，噪音点，直接密度可达，密度可达，密度相连）
+				- 算法流程 & sklearn demo
+				- 优缺点
 3. [CH.3 Feature engineering]()
 	- 数据清洗、异常处理
 	- 特征抽取、选择、组合
