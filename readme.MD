@@ -72,9 +72,35 @@
 				- 算法流程 & sklearn demo
 				- 优缺点
 3. [CH.3 Feature engineering]()
-	- 数据清洗、异常处理
-	- 特征抽取、选择、组合
-	- Demo(引入sk-learn、pandas等)
+	- Introduction
+		- 什么是特征
+		- 什么是特征工程
+		- 特征工程的重要性
+	- Data cleaning
+		- 清除异常数据
+		- 采样
+	- Data preprocessing and Feature extraction
+		- 无量纲化
+			- 标准化
+				- z-score法
+			- 归一化
+				- 区间缩放法
+		- 离散化
+		- 定性特征转化成定量特征
+			- oneHot编码
+		- 缺失值处理
+		- 数据转换
+	- Feature selection
+		- 特征选择标准
+			- 特征是否发散
+			- 特征与目标的相关性
+		- 特征选择方法
+			- 过滤法
+			- 包装法
+			- 嵌入法
+	- Dimensionality reduction
+		- 主成分分析法（PCA）
+		- 线性判别分析（LDA）
 4. [CH.4 Advanced tech]()
 	- Bagging
 	- Boosting
